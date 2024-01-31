@@ -53,8 +53,7 @@ public class CardTrick {
      * @author Paul Bonenfant Jan 2022
      */
     private static void printInfo() {
-        // Implement your printInfo() method logic here.
-        // This method should print information about the matched card.
-        System.out.println("\"Congratulations! You got it right\"!");
+        System.out.println("Congratulations! You got it right");
+        System.out.println("I am Bharat Shira. Currently I am in my 3rd semester in Computer programming.");
     }
 }
