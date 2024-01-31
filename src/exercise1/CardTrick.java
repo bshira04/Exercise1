@@ -52,8 +52,6 @@ public class CardTrick {
      * replace this information with your own.
      * @author Paul Bonenfant Jan 2022
      */
-    
-    //I'm Done
     private static void printInfo() {
         System.out.println("Congratulations! You got it right");
         System.out.println("I am Bharat Shira. Currently I am in my 3rd semester in Computer programming.");
